@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am Software engineer and Front-end Developer
+Myself Ajeet 
+I am Doing 2nd year student of BCA from Gla University, Mathura.
+I want become a future Software engineer (Front-end developer).
+And also i am Freelanceing as a full stack web development.
 
 
 ## 🌐 Socials:
